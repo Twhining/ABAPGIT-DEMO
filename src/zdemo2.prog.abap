@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZDEMO2.
 
-WRITE 'DEMO3 faskdnfalskfjölkasdfjasdjflökasjfölkasdflasvnjalgnaöwoisdoöfjaosöf'.
+WRITE 'DEMO3 wapapwpaspdapd'.
