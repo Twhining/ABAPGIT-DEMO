@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZWRITE_DEMO.
 
-WRITE 'DEMO'.
+WRITE 'DEMO FEATURE'.
